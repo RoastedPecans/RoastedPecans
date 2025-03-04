@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my GitHub (I don't know why you're here).
+
+Just using the GitHub pages to host a few docs.
+
 <!--
 **RoastedPecans/RoastedPecans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
